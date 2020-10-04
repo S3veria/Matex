@@ -8,7 +8,7 @@ from discord import FFmpegPCMAudio
 
 token="" #insert bot token here
 client=discord.Client()
-server_id=740977017050366044
+server_id= #Insert server ID here
 giphy_token='' #insert giphy token here
 api_instance=giphy_client.DefaultApi()
 
